@@ -1,0 +1,10 @@
+wp-config.php
+*.pem
+*.key
+id_ed25519*
+.env
+*.sql
+*.sql.gz
+*.log
+*.tar.gz
+wp-content/uploads/
